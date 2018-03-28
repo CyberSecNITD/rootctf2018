@@ -1,0 +1,2 @@
+Tyrell Wellick was about to decrypt a zip (flag.zip) but his phone got locked . Fortunately he has the dump (dump.tar.xz) of his android device .
+Get the flag form the zip as the pattern lock was the password of protected zip.
